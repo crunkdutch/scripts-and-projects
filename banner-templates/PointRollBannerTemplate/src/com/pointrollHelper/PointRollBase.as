@@ -1,0 +1,1 @@
+package com.pointrollHelper{	import PointRollAPI_AS3.PointRoll;	import flash.display.Sprite;	/**	 * @author jdutcher	 */	public class PointRollBase extends Sprite 	{		public var pr : PointRoll;		public function PointRollBase() 		{			pr = PointRoll.getInstance(this);		}	}}

@@ -1,0 +1,78 @@
+﻿PointRollVideolPanel_500x250.swf Movie Report
+----------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          91567          91567    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 39815
+
+Symbol                   Shape Bytes    Text Bytes    ActionScript Bytes
+---------------------    -----------    ----------    ------------------
+innerText                          0             0                     0
+finalImage                       118             0                     0
+arrow                             27             0                     0
+background                         0             0                     0
+backgroundCHILD                   40             0                     0
+btnClose                          60             0                     0
+btnPausePlay                      24             0                     0
+btnSound                           0             0                     0
+btnVideo1                         40           111                     0
+btnVideo2                         44           111                     0
+btnVideo3                         40           111                     0
+buttonCopy                         0             0                     0
+buttonCopyCHILD                    0           116                     0
+clickArea                         31             0                     0
+controls                           0           111                     0
+controlsBackground                43             0                     0
+frame1                             0             0                     0
+frameOneAnimation                  0             0                     0
+frameOneBg                        55             0                     0
+frameTwoAnimation                  0             0                     0
+gradientBG                        43             0                     0
+LibBannerButton                    0             0                     0
+mask                              25             0                     0
+masker                            45             0                     0
+pause_mc                          51             0                     0
+play_mc                           26             0                     0
+progressBar                       28             0                     0
+replayIcon                         0             0                     0
+replayVideoBtn                     0             0                     0
+resolveFrameAnimation              0             0                     0
+ReplayVideo                        0             0                     0
+soccerBall                        54             0                     0
+sound_on                          66             0                     0
+speaker                           34             0                     0
+t1                                 0           126                     0
+t2                                 0           127                     0
+t3                                 0           126                     0
+t4                                 0            54                     0
+t5                                 0            46                     0
+t6                                 0            49                     0
+thumbsUp                           0             0                     0
+videoButtons                      46             0                     0
+videoHolder                        0             0                     0
+VideoPlayer                        0             0                     0
+
+Font Name            Bytes         Characters
+-----------------    ----------    ----------
+Arial-BoldMT Bold          2501     !?FSabcdefghilmnoprstuwxy
+ArialMT                    2260     ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+ActionScript Bytes    Location
+------------------    --------
+             39815    Scene 1:Frame 1
+
+Bitmap             Compressed    Original      Compression
+---------------    ----------    ----------    -----------
+fristFrame.jpg           8473        353904    Imported JPEG=102
+bannerImage.jpg         20491        498000    Imported JPEG=102
+soccerBall.jpg           3161         40000    Imported JPEG=102
+thumbsUp.png             4261        112112    JPEG Quality=80
+finalImage.jpg           6199        198000    Imported JPEG=102
+
+
+
+

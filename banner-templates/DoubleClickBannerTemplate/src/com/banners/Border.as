@@ -1,0 +1,1 @@
+﻿package com.banners{	import flash.display.MovieClip;	public class Border extends MovieClip	{		public function Border(w : Number, h : Number, color : uint, lineWidth : Number = 1)		{			this.graphics.lineStyle(lineWidth, color, 1, true, "normal", "none", "miter");			this.graphics.drawRect(0, 0, w - 1, h - 1);			this.mouseEnabled = false;		}	}}

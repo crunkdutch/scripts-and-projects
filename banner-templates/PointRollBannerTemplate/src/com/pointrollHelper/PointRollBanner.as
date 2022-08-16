@@ -1,0 +1,1 @@
+package com.pointrollHelper {	/**	 * @author jdutcher	 */	public class PointRollBanner extends PointRollBase 	{		public function PointRollBanner() 		{			super();		}		public function openPanel(panelNo : int) : void		{			pr.openPanel(panelNo);		}	}}

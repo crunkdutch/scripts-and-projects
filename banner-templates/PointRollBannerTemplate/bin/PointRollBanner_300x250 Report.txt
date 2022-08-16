@@ -1,0 +1,46 @@
+﻿PointRollBanner_300x250.swf Movie Report
+-----------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          30412          30412    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 17402
+
+Symbol             Shape Bytes    Text Bytes    ActionScript Bytes
+---------------    -----------    ----------    ------------------
+background                   0             0                     0
+backgroundCHILD             37             0                     0
+bg                          38             0                     0
+buttonCopy                   0             0                     0
+buttonCopyCHILD              0           107                     0
+gradientBG                   0             0                     0
+image                        0             0                     0
+LibBannerButton              0             0                     0
+replay_mc                   24             0                     0
+replayIcon                  80             0                     0
+DateText                     0           502                     0
+date1                        0            73                     0
+date2                        0            75                     0
+date3                        0            74                     0
+date4                        0            57                     0
+date5                        0            49                     0
+clickArea                   27             0                     0
+
+Font Name    Bytes         Characters
+---------    ----------    ----------
+ArialMT            2666     /89ACDEGHILMNOPRSTUWYadehlsty
+
+ActionScript Bytes    Location
+------------------    --------
+             17402    Scene 1:Frame 1
+
+Bitmap          Compressed    Original      Compression
+------------    ----------    ----------    -----------
+preImage.jpg          7827        300000    Imported JPEG=102
+
+
+
+

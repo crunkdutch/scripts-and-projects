@@ -1,0 +1,1 @@
+package com.pointrollHelper {	import flash.events.Event;	/**	 * @author domanistudios	 */	public class VolumeButtonEvent extends Event {		public var data:*;		public static const VOLUME_CHANGE:String = "volume_change";		public function VolumeButtonEvent(type : String, data:* = null) 		{			super(type, false, false);			this.data = data;		}	}}

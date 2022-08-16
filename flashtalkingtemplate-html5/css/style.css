@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'FONT NAME HERE';
+  src: url('../fonts/FONT.WOFF') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+#arrow_holder { position: absolute; visibility: hidden; z-index: 9; }
+#arrow_left {   width : 14px; height : 29px; position : absolute; top : 35px; left : 4px; background-image : url('../images/carousel_arrow_300x250.png'); }
+#arrow_right {  width : 14px; height : 29px; position : absolute; top : 35px; left: 278px; background-image : url('../images/carousel_arrow_300x250.png'); }
+
+#backup { position: absolute; width: 300px; height: 250px; z-index : 1000; display: none; }
+body { margin : 0px; padding : 0px; font-family: 'Arial', 'sans-serif'; font-size : 14px; color : #000; cursor: pointer; font-style: normal; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing:antialiased; }
+
+#btn_cta { width : 298px; height : 33px; position: absolute; top: 216px; left: 0px; z-index: 9; overflow: hidden; visibility: hidden; }
+#btn_cta_text { position: absolute; font-style: italic; color: #ff0000; text-align: center; }
+#btn_invis { width : 298px; height : 248px; opacity : 0; position: absolute; top: 0; left : 0; background-color: red; cursor: pointer; z-index: 5; } 
+
+#carousell { color : #E93220; width : 195px; height : 195px; overflow: hidden; position: absolute; left : 51px; visibility: hidden; background: #fff; }
+#carousel_holder { position: absolute; width : 195px; top : 10px; z-index: 7; } 
+#carousel_holder p { text-align: center; }
+
+#container { width : 298px; height : 248px; background-color: #ffffff; overflow : hidden; position: absolute;  border-style: solid; border-color: black; border-width: thin; }
+
+.grad {
+  background: -webkit-radial-gradient(#EBEBEB,#FFFFFF); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(#EBEBEB,#FFFFFF); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(#EBEBEB,#FFFFFF); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(#EBEBEB,#FFFFFF); /* Standard syntax */
+}
+
+#logo { position: absolute; top : 8px; left : 0px; }
+
+.product_holder { position : absolute; width : 195px; height: 195px; }
+.product_holder img { position: absolute; }
+
+.rotater { 
+  -ms-transform : rotate(180deg); /* IE 9 */
+  -moz-transform : rotate(180deg); /* Firefox */
+  -webkit-transform : rotate(180deg); /* Safari and Chrome */
+  -o-transform : rotate(180deg); /* Opera */
+}
+
